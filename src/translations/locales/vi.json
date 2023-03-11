@@ -1,0 +1,36 @@
+{
+    "header": {
+        "projet": {
+            "project_name": "MicRoak"
+        }
+    },
+
+    "responseCode": {
+        "SUCCESS": "Success",
+        "INVALID_CURRENT_PASSWORD": "Password isn't correct",
+        "Network Error": "Network Error"
+    },
+    "responseDesc": {
+        "NOT valid current password, please try again": "NOT valid current password, please try again",
+        "A system error has occurred!": "A system error has occurred!",
+        "contact-seller-succes": "Contact seller success"
+    },
+
+    "common": {
+    },
+
+    "error": {
+        "title": "Error"
+    },
+
+   
+
+    "language": {
+        "vi": "VN",
+        "en": "EN"
+    },
+
+   "Menu": {
+    
+   }
+}
